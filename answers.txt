@@ -1,0 +1,1 @@
+Merge takes the the contents of a source branh and integrates them with a specified branch. Rebase simply moves or combines a sequence of commits to a new base commit
