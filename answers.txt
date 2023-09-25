@@ -1,1 +1,1 @@
-Merging takes the contents of two branches and integrates them with the main branch. In rebase, we combine a sequence of commits to a new base commit. It is generally easier to follow.
+A remote repository is an online space where code can be modified and accessed between one or more people
