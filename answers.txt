@@ -1,1 +1,1 @@
-A remote reposiitory is a central place that is accessible and can be modifided by one or more people.
+Merging takes the contents of two branches and integrates them with the main branch. In rebase, we combine a sequence of commits to a new base commit. It is generally easier to follow.
