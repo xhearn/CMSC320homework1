@@ -1,0 +1,1 @@
+What is the difference between a merge and a rebase? Merge works by taking two versions of the same code and putting them directly together, while rebase works a little more linearly and is somewhat easier to follow.
