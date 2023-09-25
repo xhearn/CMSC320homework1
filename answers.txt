@@ -1,1 +1,1 @@
-A remote reposisitory is a central online place where code from one or more contributors is stored
+Merge combines code from one branch into another, it should preserve the history of both branches given none of the same text was altered. Rebase moves or combines a sequence of commits to a new base commit, creating a more linear history.
